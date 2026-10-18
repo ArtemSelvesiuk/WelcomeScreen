@@ -7,3 +7,5 @@ print(f'b={b}')
 print(f'c={c}')
 type_c = type(c)
 print(f'type_c: {type_c}')
+
+print("test")
